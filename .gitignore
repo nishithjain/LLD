@@ -73,9 +73,6 @@ ui_*
 # Ignore documentation binaries
 *.pdf
 
-# Ignore Excel tracking files
-*.xlsx
-
 # Ignore specific patterns inside Notes if needed
 **/Notes/*.tmp
 **/Notes/~$*
